@@ -1,2 +1,1 @@
-# regroup
-real estate project ; group project; 2019
+THis is the README.md file
